@@ -1,3 +1,8 @@
-# Headline
+# webpack-snippets
 
-> An awesome project.
+> Webpack snippets.
+
+## serve:
+```bash
+docsify serve .
+```
